@@ -11,6 +11,11 @@ html, body {
   padding:0;
 }
 
+h1{
+  position: relative;
+  left: 2%;
+}
+
 
 #header {
   background-color: #FFDBAA;
